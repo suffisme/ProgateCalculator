@@ -87,6 +87,6 @@ button:hover{
 	background-color: darkorange;
 }
 
-a{
+a,span{
 	font-size:25px;
 }
