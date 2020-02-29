@@ -87,6 +87,10 @@ button:hover{
 	background-color: darkorange;
 }
 
-a, span{
+a{
 	font-size:25px;
+	color:rgb(237, 40, 90);
 }
+
+span{
+	font-size:25px;
